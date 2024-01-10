@@ -1,1 +1,10 @@
-
+ipykernel==
+matplotlib==
+scikit-learn==
+seaborn==
+pandas==
+numpy==
+gensim==
+joblib==
+os==
+itertools==
