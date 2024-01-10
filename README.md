@@ -21,7 +21,7 @@ Les dades emprades per entrenar els models no seran proporcionades ja que són d
 ### Instalació
 1. Crear un entorn virtual de Python amb Conda, copiant la següent comanda al teu terminal.
 ```bash
-conda create -n env_name python=3.7.9
+conda create -n myenv python=3.7.9
 ```
 
 2. Activar-lo i instal·lar els requeriments.
