@@ -19,7 +19,7 @@ Les dades emprades per entrenar els models no seran proporcionades ja que són d
 - Conda/Miniconda
 
 ### Instalació
-1. Crear un entorn virtual de Python amb Conda, copiant el següent comand al teu terminal.
+1. Crear un entorn virtual de Python amb Conda, copiant la següent comanda al teu terminal.
 ```bash
 conda create -n env_name python=3.7.9
 ```
